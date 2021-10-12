@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/e60a09e7-d3f1-4d23-84af-58e31a522d4f.svg)
+[![wakatime](https://wakatime.com/badge/user/e60a09e7-d3f1-4d23-84af-58e31a522d4f.svg)](https://wakatime.com/@e60a09e7-d3f1-4d23-84af-58e31a522d4f)
 [![twitter](https://img.shields.io/twitter/follow/hackinroms?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/HackinRoms)
 [![github](https://img.shields.io/github/followers/jaymoh?logo=github&style=plastic)](https://github.com/jaymoh?tab=followers)
 
-<!--
-- 🔭 I’m currently working on [https://portal.zimele.coke](https://zimele.co.ke)
--->
 - 💬 Ask me about Vue, PHP, Laravel, JavaScript, and Quasar, BootstrapVue
 - 📫 How to reach me: [@HackinRoms](https://twitter.com/HackinRoms) on Twitter
 
