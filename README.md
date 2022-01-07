@@ -4,7 +4,7 @@
 [![twitter](https://img.shields.io/twitter/follow/hackinroms?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/HackinRoms)
 [![github](https://img.shields.io/github/followers/jaymoh?logo=github&style=plastic)](https://github.com/jaymoh?tab=followers)
 
-- 💬 Ask me about PHP, Laravel, JavaScript, Vue: Quasar, BootstrapVue, Vuetify, Element UI, Nuxt.js. And Python, Django. 
+- 💬 Ask me about PHP, Laravel, JavaScript, Node JS (Adonis.js), Vue: Quasar, BootstrapVue, Vuetify, Element UI, Nuxt.js. And Python, Django. 
 - 📫 How to reach me: [@HackinRoms](https://twitter.com/HackinRoms) on Twitter
 
 <!--
