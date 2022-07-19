@@ -7,8 +7,8 @@
 - 💬 Ask me about PHP, Laravel, JavaScript, TypeScript, Node JS (Adonis.js), Vue (Quasar, BootstrapVue, Vuetify, Element UI, Nuxt.js), Python, Django, DevOps (Docker, DockerCompose, Dockerfile), Kotlin (Ktor). 
 
 - 📫 How to reach me: [@HackinRoms](https://twitter.com/HackinRoms) on Twitter
-- 🌱 I’m currently learning Kotlin (Ktor).
-- 👯 I’m looking to collaborate on Projects whose tech stack include TypeScript, JavaScript, Laravel, VUe, PHP, Kotlin.
+- 🌱 I’m currently learning Kotlin (Ktor) and taking an InfoSec Masters.
+- 👯 I’m looking to collaborate on Projects whose tech stacks include TypeScript, JavaScript, Laravel, Vue, PHP, Kotlin.
 
 <!--
 **jaymoh/jaymoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
