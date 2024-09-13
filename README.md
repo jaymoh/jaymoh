@@ -4,10 +4,11 @@
 [![twitter](https://img.shields.io/twitter/follow/hackinroms?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/HackinRoms)
 [![github](https://img.shields.io/github/followers/jaymoh?logo=github&style=plastic)](https://github.com/jaymoh?tab=followers)
 
-- 💬 Ask me about PHP, Laravel, JavaScript, TypeScript, Node JS (Adonis.js, Nest.js), Vue (Quasar, BootstrapVue, Vuetify, Element UI, Nuxt.js), DevOps (Docker, DockerCompose, Dockerfile), Kotlin, Ktor, Jetpack Compose. 
+- 💬 Ask me about PHP, Laravel, JavaScript, TypeScript, Node JS (Nest.js), Vue (Quasar, BootstrapVue, Vuetify, Element UI, Nuxt.js), DevOps (Docker, DockerCompose, Dockerfile, Nginx/Ubuntu Server Administration), Kotlin, Ktor, Jetpack Compose, Python. 
 
-- 📫 How to reach me: [@HackinRoms](https://twitter.com/HackinRoms) on Twitter
-- 🌱 I’m currently learning Kotlin (Ktor) and taking an InfoSec Masters.
+- 📫 How to reach me: [@HackinRoms](https://twitter.com/HackinRoms) on Twitter.
+- 🔭 I’m currently working on a Kotlin (Jetpack Compose) Android app, with a part laravel part Ktor backend. Also building a Vue (Quasar) web application. 
+- 🌱 I’m currently learning Python, OpenAI integrations and taking an InfoSec Masters.  
 - 👯 I’m looking to collaborate on Projects whose tech stacks include TypeScript, JavaScript, Laravel, Vue, PHP, Kotlin, Ktor.
 
 <!--
